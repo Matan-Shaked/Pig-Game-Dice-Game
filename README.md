@@ -1,7 +1,5 @@
 # Pig-Game-Dice-Game
 
-[Wanna try LIVE SERVER++ (BETA) ? It'll enable live changes without saving file. https://github.com/ritwickdey/vscode-live-server-plus-plus ]
-
 Live Server
 Live Server loves 💘 your multi-root workspace
 
@@ -27,7 +25,7 @@ Open a HTML file and right-click on the editor and click on Open with Live Serve
 
 Hit (alt+L, alt+O) to Open the Server and (alt+L, alt+C) to Stop the server (You can change the shortcut form keybinding). [On MAC, cmd+L, cmd+O and cmd+L, cmd+C]
 
-Open the Command Pallete by pressing F1 or ctrl+shift+P and type Live Server: Open With Live Server to start a server or type Live Server: Stop Live Server to stop a server.
+Open the Command Pallete by pressing F1 or ctrl+shift+P and type Live Server: Open With Live Server  to start a server or type Live Server: Stop Live Server to stop a server.
 
 Features
 A Quick Development Live Server with live browser reload.
